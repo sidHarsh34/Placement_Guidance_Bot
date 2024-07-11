@@ -1,0 +1,21 @@
+.history-container {
+  padding: 20px;
+}
+
+.conversation {
+  margin-bottom: 10px;
+}
+
+.message {
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 5px;
+}
+
+.user {
+  background-color: #f0f0f0;
+}
+
+.chatbot {
+  background-color: #cceeff;
+}
